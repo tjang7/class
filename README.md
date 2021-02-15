@@ -1,8 +1,8 @@
-# class
+# Project overpowered npc
 
-//Project Name:  Piss off my brother by making him fight an overpowered npc
+//Project Name:  overpowered npc
 
-//Goal: My goal was to create a very powerful (and therefore complicated ) npc in order to make my brother fight against it. 
+//Goal: My goal was to create a very powerful (and therefore complicated ) npc in order to make my brother fight against it and therefore piss off him brother.
 
 //Technologies: programming language lua, video game gmod
 
